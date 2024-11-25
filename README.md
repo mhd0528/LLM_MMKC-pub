@@ -4,7 +4,8 @@ This is the repository for the ICDE submission "Transformer-Based Multimodal Kno
 
 ## Link-Aware Contexts
 
-Leverage [multimodal generation model](https://huggingface.co/BleachNick/MMICL-Instructblip-T5-xxl) to provide link-aware context. 
+Leverage [multimodal generation model](https://huggingface.co/BleachNick/MMICL-Instructblip-T5-xxl) to provide link-aware context.
+Multimodal contexts for each dataset are provided in the `data/` folder
 
 
 ## Getting Started
@@ -15,7 +16,9 @@ pip install -r requirements.txt
 
 ### Download Data
 Train, valid, and test data are provided. 
-Image data can be downloaded from (not necessary): 
+Image data can be found at (not necessary): 
+ - FB15k-237: Follow [MKGformer](https://github.com/zjunlp/MKGformer)
+ - MKG-W/MKG-Y: Provide by [MMRNS](https://github.com/quqxui/MMRNS), [Google Drive](https://drive.google.com/drive/folders/1sFC-P9RKnikqNXjmLcj0IX7x5zvRs-Yj?usp=drive_link)
 
 
 ## Reproduction
