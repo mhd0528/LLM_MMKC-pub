@@ -2,34 +2,10 @@
 
 This is the repository for the ICDE submission "Transformer-Based Multimodal Knowledge Graph Completion with Link-Aware Contexts"
 
-### Link-Aware Contexts
+## Link-Aware Contexts
 
-Leverage [multimodal generation model](https://github.com/apoorvumang/kgt5) to provide link-aware context. 
+Leverage [multimodal generation model](https://huggingface.co/BleachNick/MMICL-Instructblip-T5-xxl) to provide link-aware context. 
 
-Example input/output:
-
-input: `predict tail: Yambáo | genre`
-
-expected output: `Drama`
-
-### KGT5-context
-
-KGT5-context is a simple extension of KGT5.
-We additionally provide the model with the 1-hop neighborhood around the input entity. 
-
-Example input/output:
-
-input: 
-```
-query: Yambáo | genre
-context:
-instance of | film
-country of origin | Mexico
-reverse of directed | Alfredo B. Crevenna
-...
-```
-
-expected output: `Drama`
 
 ## Getting Started
 
