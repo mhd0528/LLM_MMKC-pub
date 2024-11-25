@@ -14,7 +14,8 @@ pip install -r requirements.txt
 ```
 
 ### Download Data
-
+Train, valid, and test data are provided. 
+Image data can be downloaded from: 
 
 
 ## Reproduction
@@ -26,8 +27,8 @@ You can control the GPUs used with the environment variable `CUDA_VISIBLE_DEVICE
 
 ```
 python -u main.py --config-name=mm_config dataset.name=fb15k-237 dataset.mm=True \
-      context.setting=$mm_setting context.max_size=50 context.file=/path/to/context/file \
-      context.relation=true context.relation_file=/path/to/relation_context/file context.rel_max_size=10 \
+      context.setting=$mm_setting context.max_size=50 context.file=data/fb15-237/context/t5-FB237_img_context-small-setting_2-v1.json \
+      context.relation=true context.relation_file=data/fb15-237/context/t5-fb15k-237-rel_context-v1.json context.rel_max_size=10 \
       valid.tiny=True valid.every=2 train.max_epochs=30
 ```
 
