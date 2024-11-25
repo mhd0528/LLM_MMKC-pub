@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ### Download Data
 Train, valid, and test data are provided. 
-Image data can be downloaded from: 
+Image data can be downloaded from (not necessary): 
 
 
 ## Reproduction
