@@ -1,0 +1,58 @@
+
+dataset:
+  name: fb15k-237
+  # use original KGT5 without context
+  v1: False
+  mm: False
+  # use deprecated input format. Necessary to properly evaluate old models.
+  is_legacy: False
+model:
+  name: t5-small
+  tokenizer_type: t5
+  max_input_length: 512
+  max_output_length: 40
+context:
+  use: 1
+  setting: 1
+  relation: False
+  file: /blue/daisyw/ma.haodi/LLM-MMKGC/data/${dataset.name}/context/t5-img_context-small-v1.json
+  relation_file: /blue/daisyw/ma.haodi/LLM-MMKGC/data/${dataset.name}/context/t5-MKG-W-rel_context-v1.json
+  reverse_relation_file: /blue/daisyw/ma.haodi/LLM-MMKGC/data/${dataset.name}/reverse_relation_mentions.del
+  max_size: 100
+  rel_max_size: 100
+  shuffle: True
+descriptions:
+  use: False
+train:
+  batch_size: 64
+  max_epochs: 100
+  drop_subject: 0.0
+  num_workers: 4
+  precision: 16
+  accelerator: auto
+  devices: auto
+  strategy: ddp_find_unused_parameters_false
+  #strategy: ddp
+eval:
+  num_predictions: 500
+  max_length: 40
+  batch_size: 1
+valid:
+  every: 1
+  tiny: True
+  limit_batches: 1
+checkpoint:
+  keep_top_k: 3
+
+resume_from: ""
+wandb:
+  use: False
+  project_name: kgt5_context_${dataset.name}
+  run_name: v1=${dataset.v1}_desc=${descriptions.use}_bs=${train.batch_size}
+
+hydra:
+  job:
+    chdir: False
+  run:
+    dir: ./outputs/${dataset.name}/v1=${dataset.v1}/mm_use=${dataset.mm}/context_setting=${context.setting}/relation_context_use=${context.relation}/${now:%Y-%m-%d-%H-%M}
+    #dir: ./tmp
