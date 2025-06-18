@@ -1,0 +1,170 @@
+169
+0	cast member
+1	screenwriter
+2	occupation
+3	performer
+4	narrative location
+5	producer
+6	place of death
+7	director of photography
+8	followed by
+9	country
+10	distributed by
+11	composer
+12	instrument
+13	instance of
+14	follows
+15	original language of film or TV show
+16	record label
+17	subclass of
+18	member of sports team
+19	original broadcaster
+20	continent
+21	country of origin
+22	director
+23	contains the administrative territorial entity
+24	father
+25	religion or worldview
+26	capital
+27	main subject
+28	brothers
+29	twinned administrative body
+30	place of birth
+31	educated at
+32	genre
+33	member of political party
+34	country of citizenship
+35	ethnic group
+36	movement
+37	production company
+38	part of
+39	shares border with
+40	employer
+41	work location
+42	adjacent station
+43	maintained by
+44	cause of death
+45	distribution format
+46	author
+47	characters
+48	located in the administrative territorial entity
+49	position played on team  ,  speciality
+50	part of the series
+51	political ideology
+52	residence
+53	award received
+54	league or competition
+55	parent taxon
+56	film editor
+57	conflict
+58	publisher
+59	drafted by
+60	time period
+61	platform
+62	influenced by
+63	parent organization
+64	lyricist
+65	owned by
+66	child
+67	headquarters location
+68	located in or next to body of water
+69	located in time zone
+70	doctoral student
+71	developer
+72	filming location
+73	place of burial
+74	has subsidiary
+75	spouse
+76	based on
+77	executive producer
+78	copyright license
+79	languages spoken, written or signed
+80	member of
+81	diplomatic relation
+82	notable work
+83	narrator
+84	capital of
+85	designed by
+86	industry
+87	founded by
+88	lake on watercourse
+89	creator
+90	has part(s)
+91	mother
+92	official language
+93	military branch
+94	religious order
+95	sport
+96	territory claimed by
+97	operating area
+98	location
+99	participant in
+100	architect
+101	present in work
+102	has spin-off
+103	software engine
+104	operator
+105	architectural style
+106	manufacturer
+107	named after
+108	location of formation
+109	field of work
+110	production designer
+111	located in , on physical feature
+112	native language
+113	political alignment
+114	unmarried partner
+115	siblings
+116	participant
+117	contributor to the creative work or subject
+118	allegiance
+119	doctoral advisor
+120	product, material, or service produced or provided
+121	licensed to broadcast to
+122	given name
+123	librettist
+124	programmed in
+125	brand
+126	mouth of the watercourse
+127	voice type
+128	replaced by
+129	head coach
+130	operating system
+131	list of episodes
+132	replaces
+133	occupant
+134	depicts
+135	archives at
+136	field of this occupation
+137	location of creation
+138	language of work or name
+139	discoverer or inventor
+140	collection
+141	contains settlement
+142	enclave within
+143	shipping port
+144	color
+145	inspired by
+146	military or police rank
+147	connecting line
+148	tracklist
+149	different from
+150	soundtrack release
+151	outflows
+152	language used
+153	opposite of
+154	basin country
+155	successful candidate
+156	voice actor
+157	vessel class
+158	candidate
+159	chairperson
+160	country for sport
+161	basic form of government
+162	language regulatory body
+163	has dialect
+164	student
+165	student of
+166	inflows
+167	official residence
+168	start point

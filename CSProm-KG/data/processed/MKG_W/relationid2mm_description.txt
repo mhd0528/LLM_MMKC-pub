@@ -1,0 +1,339 @@
+169
+0	Template: [A] has cast_member [B].
+1	Template: [A] has screenwriter [B].
+2	Template: [A] has occupation [B].
+3	Template: [A] has performer [B].
+4	Template: [B] is the narrative_location of [A].
+5	Template: [B] is the producer of [A].
+6	Template: [B] is the place_of_death of [A].
+7	Template: [B] is the director_of_photography of [A].
+8	Template: [A] is followed_by [B].
+9	Template: [B] is the country of [A].
+10	Template: [A] is distributed_by [B].
+11	Template: [B] is the composer of [A].
+12	Template: [A] plays the instrument [B].
+13	Template: [A] is an instance_of [B].
+14	Template: [A] follows [B].
+15	Template: [B] is the original_language_of_film_or_TV_show of [A].
+16	Template: [B] is the record_label of [A].
+17	Template: [A] is the subclass_of [B].
+18	Template: [A] is a member_of_sports_team of [B].
+19	Template: [A] was originally broadcast on [B].
+20	Template: [A] is the continent of [B].
+21	Template: [A] originally comes from country [B].
+22	Template: [B] is the director of [A].
+23	Template: [A] contains the administrative territorial entity of [B].
+24	Template: [A]'s father is [B].
+25	Template: [B] is the religion_or_worldview of [A].
+26	Template: [B] is the capital of [A].
+27	Template: [B] is the main_subject of [A].
+28	Template: [A] has siblings [B].
+29	Template: [B] is the twinned_administrative_body of [A].
+30	Template: [B] is the place_of_birth of [A].
+31	Template: [A] is educated_at [B].
+32	Template: [B] is the genre of [A].
+33	Template: [A] is a member_of_political_party [B].
+34	Template: [A] has citizenship of country [B].
+35	Template: [B] is the ethnic_group of [A].
+36	Template: [B] is the movement of [A].
+37	Template: [B] is the production_company of [A].
+38	Template: [A] is part of [B].
+39	Template: [B] shares border with [A].
+40	Template: [A] worked for [B].
+41	Template: [B] is the work_location of [A].
+42	Template: [B] is the adjacent_station of [A].
+43	Template: [A] is maintained by [B].
+44	Template: [A] died because of [B].
+45	Template: [B] is the distribution_format of [A].
+46	Template: [B] is the author of [A].
+47	Template: [A] has characters [B].
+48	Template: [A] is located_in_the_administrative_territorial_entity [B].
+49	Template: [B] is the position_played_on_team_/_speciality of [A].
+50	Template: [A] is part_of_the_series [B].
+51	Template: [A] has political_ideology [B].
+52	Template: [A] has been resident of [B].
+53	Template: [B] is the award_received by [A].
+54	Template: [B] is the league_or_competition of [A].
+55	Template: [B] is the parent_taxon of [A].
+56	Template: [B] is the film_editor of [A].
+57	Template: [A] was involved in the conflict [B].
+58	Template: [B] is the publisher of [A].
+59	Template: [A] was drafted by [B].
+60	Template: [A] occurred in the time_period of [B].
+61	Template: [B] is the platform of [A].
+62	Template: [A] is influenced by [B].
+63	Template: [B] is the parent_organization of [A].
+64	Template: [B] is the lyricist of [A].
+65	Template: [A] is owned_by [B].
+66	Template: [B] is the child of [A].
+67	Template: [B] is the headquarters_location of [A].
+68	Template: [A] is located_in_or_next_to body of water [B].
+69	Template: [A] is located_in_time_zone [B].
+70	Template: [A] has a doctoral_student [B].
+71	Template: [B] is the developer of [A].
+72	Template: [A] was filmed at [B].
+73	Template: [B] is the place_of_burial of [A].
+74	Template: [A] has_subsidiary [B].
+75	Template: [B] is the spouse of [A].
+76	Template: [A] is based on [B].
+77	Template: [B] is the executive_producer of [A].
+78	Template: [B] is the copyright_license of [A].
+79	Template: [B] is the languages_spoken,_written_or_signed of [A].
+80	Template: [A] is a member_of [B].
+81	Template: [A] has diplomatic_relation with [B].
+82	Template: [B] is a notable_work of [A].
+83	Template: [B] is a narrator of [A].
+84	Template: [A] is the capital_of [B].
+85	Template: [A] is designed_by [B].
+86	Template: [B] is the industry of [A].
+87	Template: [A] is founded_by [B].
+88	Template: lake [B] is on_watercourse of [A].
+89	Template: [B] is the creator of [A].
+90	Template: [A] has_part(s) [B].
+91	Template: [B] is the mother of [A].
+92	Template: [B] is the official_language of [A].
+93	Template: [A] served in the [B] military branch.
+94	Template: [B] is the religious_order of [A].
+95	Template: [B] is the sport [A] plays.
+96	Template: [A] is a territory_claimed_by [B].
+97	Template: [B] is the operating_area of [A].
+98	Template: [B] is the location of [A].
+99	Template: [A] is a participant in [B].
+100	Template: [B] is the architect of [A].
+101	Template: [A] is present_in_work [B].
+102	Template: [A] has spin-off [B].
+103	Template: [B] is the software_engine of [A].
+104	Template: [B] is the operator of [A].
+105	Template: [B] is the architectural_style of [A].
+106	Template: [B] is the manufacturer of [A].
+107	Template: [A] is named after [B].
+108	Template: [B] is the location_of_formation of [A].
+109	Template: [B] is the field_of_work of [A].
+110	Template: [B] is the production_designer of [A].
+111	Template: [A] is located_in/on_physical_feature [B].
+112	Template: [B] is the native_language of [A].
+113	Template: [A] has political_alignment [B].
+114	Template: [A] has unmarried_partner [B].
+115	Template: [A] has siblings [B].
+116	Template: [A] has participant [B].
+117	Template: [A] is the contributor_to_the_creative_work_or_subject [B].
+118	Template: [A] has allegiance to [B].
+119	Template: [A] has doctoral_advisor [B].
+120	Template: [A] is the product, material, or service produced or provided by [B].
+121	Template: [A] is licensed_to_broadcast_to [B].
+122	Template: [B] is the given_name of [A].
+123	Template: [A] has librettist [B].
+124	Template: [B] is the programming_language of [A].
+125	Template: [B] is the brand of [A].
+126	Template: [B] is the mouth_of_the_watercourse [A].
+127	Template: [A] has voice_type [B].
+128	Template: [A] is replaced_by [B].
+129	Template: [B] is the head_coach of [A].
+130	Template: [B] is the operating_system of [A].
+131	Template: The list_of_episodes of [A] is [B].
+132	Template: [A] replaces [B].
+133	Template: [A] has occupant [B].
+134	Template: [A] depicts [B].
+135	Template: [A] archives_at [B].
+136	Template: [B] is the field_of_occupation [A].
+137	Template: [B] is the location_of_creation [A].
+138	Template: [B] is the language_of [A].
+139	Template: [B] is the discoverer_or_inventor of [A].
+140	Template: [A] is in the [B] collection.
+141	Template: [A] contains_settlement [B].
+142	Template: [A] enclave_within [B].
+143	Template: The shipping_port of [A] is [B].
+144	Template: [B] is the color of [A].
+145	Template: [A] is inspired_by [B].
+146	Template: [A] holds the military_or_police_rank [B].
+147	Template: [B] is the connecting_line of [A].
+148	Template: [B] is in the tracklist of [A].
+149	Template: [B] is different from [A].
+150	Template: The soundtrack_release of [A] is [B].
+151	Template: [A] outflows [B].
+152	Template: [A] uses language [B].
+153	Template: The opposite_of [A] is [B].
+154	Template: [B] is the basin_country of [A].
+155	Template: [B] was the successful_candidate of [A].
+156	Template: [B] is a voice_actor of [A].
+157	Template: [B] is the vessel_class of [A].
+158	Template: [B] is the candidate of [A].
+159	Template: [A] has chairperson [B].
+160	Template: [B] is the country_for_sport [A].
+161	Template: The basic_form_of_government of [A] is [B].
+162	Template: [B] is the language_regulatory_body of [A].
+163	Template: [A] has dialect [B].
+164	Template: [A] has a student [B].
+165	Template: [A] is the student_of [B].
+166	Template: [A] inflows to [B].
+167	Template: [B] is the official_residence of [A].
+168	Template: [B] is the start_point of [A].
+169	Template: [B] has cast_member [A].
+170	Template: [B] has screenwriter [A].
+171	Template: [B] has occupation [A].
+172	Template: [B] has performer [A].
+173	Template: [A] is the narrative_location of [B].
+174	Template: [A] is the producer of [B].
+175	Template: [A] is the place_of_death of [B].
+176	Template: [A] is the director_of_photography of [B].
+177	Template: [B] is followed_by [A].
+178	Template: [A] is the country of [B].
+179	Template: [B] is distributed_by [A].
+180	Template: [A] is the composer of [B].
+181	Template: [B] plays the instrument [A].
+182	Template: [B] is an instance_of [A].
+183	Template: [B] follows [A].
+184	Template: [A] is the original_language_of_film_or_TV_show of [B].
+185	Template: [A] is the record_label of [B].
+186	Template: [B] is the subclass_of [A].
+187	Template: [B] is a member_of_sports_team of [A].
+188	Template: [B] was originally broadcast on [A].
+189	Template: [B] is the continent of [A].
+190	Template: [B] originally comes from country [A].
+191	Template: [A] is the director of [B].
+192	Template: [B] contains the administrative territorial entity of [A].
+193	Template: [B]'s father is [A].
+194	Template: [A] is the religion_or_worldview of [B].
+195	Template: [A] is the capital of [B].
+196	Template: [A] is the main_subject of [B].
+197	Template: [B] has siblings [A].
+198	Template: [A] is the twinned_administrative_body of [B].
+199	Template: [A] is the place_of_birth of [B].
+200	Template: [B] is educated_at [A].
+201	Template: [A] is the genre of [B].
+202	Template: [B] is a member_of_political_party [A].
+203	Template: [B] has citizenship of country [A].
+204	Template: [A] is the ethnic_group of [B].
+205	Template: [A] is the movement of [B].
+206	Template: [A] is the production_company of [B].
+207	Template: [B] is part of [A].
+208	Template: [A] shares border with [B].
+209	Template: [B] worked for [A].
+210	Template: [A] is the work_location of [B].
+211	Template: [A] is the adjacent_station of [B].
+212	Template: [B] is maintained by [A].
+213	Template: [B] died because of [A].
+214	Template: [A] is the distribution_format of [B].
+215	Template: [A] is the author of [B].
+216	Template: [B] has characters [A].
+217	Template: [B] is located_in_the_administrative_territorial_entity [A].
+218	Template: [A] is the position_played_on_team_/_speciality of [B].
+219	Template: [B] is part_of_the_series [A].
+220	Template: [B] has political_ideology [A].
+221	Template: [B] has been resident of [A].
+222	Template: [A] is the award_received by [B].
+223	Template: [A] is the league_or_competition of [B].
+224	Template: [A] is the parent_taxon of [B].
+225	Template: [A] is the film_editor of [B].
+226	Template: [B] was involved in the conflict [A].
+227	Template: [A] is the publisher of [B].
+228	Template: [B] was drafted by [A].
+229	Template: [B] occurred in the time_period of [A].
+230	Template: [A] is the platform of [B].
+231	Template: [B] is influenced by [A].
+232	Template: [A] is the parent_organization of [B].
+233	Template: [A] is the lyricist of [B].
+234	Template: [B] is owned_by [A].
+235	Template: [A] is the child of [B].
+236	Template: [A] is the headquarters_location of [B].
+237	Template: [B] is located_in_or_next_to body of water [A].
+238	Template: [B] is located_in_time_zone [A].
+239	Template: [B] has a doctoral_student [A].
+240	Template: [A] is the developer of [B].
+241	Template: [B] was filmed at [A].
+242	Template: [A] is the place_of_burial of [B].
+243	Template: [B] has_subsidiary [A].
+244	Template: [A] is the spouse of [B].
+245	Template: [B] is based on [A].
+246	Template: [A] is the executive_producer of [B].
+247	Template: [A] is the copyright_license of [B].
+248	Template: [A] is the languages_spoken,_written_or_signed of [B].
+249	Template: [B] is a member_of [A].
+250	Template: [B] has diplomatic_relation with [A].
+251	Template: [A] is a notable_work of [B].
+252	Template: [A] is a narrator of [B].
+253	Template: [B] is the capital_of [A].
+254	Template: [B] is designed_by [A].
+255	Template: [A] is the industry of [B].
+256	Template: [B] is founded_by [A].
+257	Template: lake [A] is on_watercourse of [B].
+258	Template: [A] is the creator of [B].
+259	Template: [B] has_part(s) [A].
+260	Template: [A] is the mother of [B].
+261	Template: [A] is the official_language of [B].
+262	Template: [B] served in the [A] military branch.
+263	Template: [A] is the religious_order of [B].
+264	Template: [A] is the sport [B] plays.
+265	Template: [B] is a territory_claimed_by [A].
+266	Template: [A] is the operating_area of [B].
+267	Template: [A] is the location of [B].
+268	Template: [B] is a participant in [A].
+269	Template: [A] is the architect of [B].
+270	Template: [B] is present_in_work [A].
+271	Template: [B] has spin-off [A].
+272	Template: [A] is the software_engine of [B].
+273	Template: [A] is the operator of [B].
+274	Template: [A] is the architectural_style of [B].
+275	Template: [A] is the manufacturer of [B].
+276	Template: [B] is named after [A].
+277	Template: [A] is the location_of_formation of [B].
+278	Template: [A] is the field_of_work of [B].
+279	Template: [A] is the production_designer of [B].
+280	Template: [B] is located_in/on_physical_feature [A].
+281	Template: [A] is the native_language of [B].
+282	Template: [B] has political_alignment [A].
+283	Template: [B] has unmarried_partner [A].
+284	Template: [B] has siblings [A].
+285	Template: [B] has participant [A].
+286	Template: [B] is the contributor_to_the_creative_work_or_subject [A].
+287	Template: [B] has allegiance to [A].
+288	Template: [B] has doctoral_advisor [A].
+289	Template: [B] is the product, material, or service produced or provided by [A].
+290	Template: [B] is licensed_to_broadcast_to [A].
+291	Template: [A] is the given_name of [B].
+292	Template: [B] has librettist [A].
+293	Template: [A] is the programming_language of [B].
+294	Template: [A] is the brand of [B].
+295	Template: [A] is the mouth_of_the_watercourse [B].
+296	Template: [B] has voice_type [A].
+297	Template: [B] is replaced_by [A].
+298	Template: [A] is the head_coach of [B].
+299	Template: [A] is the operating_system of [B].
+300	Template: The list_of_episodes of [B] is [A].
+301	Template: [B] replaces [A].
+302	Template: [B] has occupant [A].
+303	Template: [B] depicts [A].
+304	Template: [B] archives_at [A].
+305	Template: [A] is the field_of_occupation [B].
+306	Template: [A] is the location_of_creation [B].
+307	Template: [A] is the language_of [B].
+308	Template: [A] is the discoverer_or_inventor of [B].
+309	Template: [B] is in the [A] collection.
+310	Template: [B] contains_settlement [A].
+311	Template: [B] enclave_within [A].
+312	Template: The shipping_port of [B] is [A].
+313	Template: [A] is the color of [B].
+314	Template: [B] is inspired_by [A].
+315	Template: [B] holds the military_or_police_rank [A].
+316	Template: [A] is the connecting_line of [B].
+317	Template: [A] is in the tracklist of [B].
+318	Template: [A] is different from [B].
+319	Template: The soundtrack_release of [B] is [A].
+320	Template: [B] outflows [A].
+321	Template: [B] uses language [A].
+322	Template: The opposite_of [B] is [A].
+323	Template: [A] is the basin_country of [B].
+324	Template: [A] was the successful_candidate of [B].
+325	Template: [A] is a voice_actor of [B].
+326	Template: [A] is the vessel_class of [B].
+327	Template: [A] is the candidate of [B].
+328	Template: [B] has chairperson [A].
+329	Template: [A] is the country_for_sport [B].
+330	Template: The basic_form_of_government of [B] is [A].
+331	Template: [A] is the language_regulatory_body of [B].
+332	Template: [B] has dialect [A].
+333	Template: [B] has a student [A].
+334	Template: [B] is the student_of [A].
+335	Template: [B] inflows to [A].
+336	Template: [A] is the official_residence of [B].
+337	Template: [A] is the start_point of [B].

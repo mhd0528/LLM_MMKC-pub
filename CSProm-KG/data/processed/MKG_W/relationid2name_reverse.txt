@@ -1,0 +1,339 @@
+338
+0	cast member
+1	screenwriter
+2	occupation
+3	performer
+4	narrative location
+5	producer
+6	place of death
+7	director of photography
+8	followed by
+9	country
+10	distributed by
+11	composer
+12	instrument
+13	instance of
+14	follows
+15	original language of film or TV show
+16	record label
+17	subclass of
+18	member of sports team
+19	original broadcaster
+20	continent
+21	country of origin
+22	director
+23	contains the administrative territorial entity
+24	father
+25	religion or worldview
+26	capital
+27	main subject
+28	brothers
+29	twinned administrative body
+30	place of birth
+31	educated at
+32	genre
+33	member of political party
+34	country of citizenship
+35	ethnic group
+36	movement
+37	production company
+38	part of
+39	shares border with
+40	employer
+41	work location
+42	adjacent station
+43	maintained by
+44	cause of death
+45	distribution format
+46	author
+47	characters
+48	located in the administrative territorial entity
+49	position played on team  ,  speciality
+50	part of the series
+51	political ideology
+52	residence
+53	award received
+54	league or competition
+55	parent taxon
+56	film editor
+57	conflict
+58	publisher
+59	drafted by
+60	time period
+61	platform
+62	influenced by
+63	parent organization
+64	lyricist
+65	owned by
+66	child
+67	headquarters location
+68	located in or next to body of water
+69	located in time zone
+70	doctoral student
+71	developer
+72	filming location
+73	place of burial
+74	has subsidiary
+75	spouse
+76	based on
+77	executive producer
+78	copyright license
+79	languages spoken, written or signed
+80	member of
+81	diplomatic relation
+82	notable work
+83	narrator
+84	capital of
+85	designed by
+86	industry
+87	founded by
+88	lake on watercourse
+89	creator
+90	has part(s)
+91	mother
+92	official language
+93	military branch
+94	religious order
+95	sport
+96	territory claimed by
+97	operating area
+98	location
+99	participant in
+100	architect
+101	present in work
+102	has spin-off
+103	software engine
+104	operator
+105	architectural style
+106	manufacturer
+107	named after
+108	location of formation
+109	field of work
+110	production designer
+111	located in , on physical feature
+112	native language
+113	political alignment
+114	unmarried partner
+115	sisters
+116	participant
+117	contributor to the creative work or subject
+118	allegiance
+119	doctoral advisor
+120	product, material, or service produced or provided
+121	licensed to broadcast to
+122	given name
+123	librettist
+124	programmed in
+125	brand
+126	mouth of the watercourse
+127	voice type
+128	replaced by
+129	head coach
+130	operating system
+131	list of episodes
+132	replaces
+133	occupant
+134	depicts
+135	archives at
+136	field of this occupation
+137	location of creation
+138	language of work or name
+139	discoverer or inventor
+140	collection
+141	contains settlement
+142	enclave within
+143	shipping port
+144	color
+145	inspired by
+146	military or police rank
+147	connecting line
+148	tracklist
+149	different from
+150	soundtrack release
+151	outflows
+152	language used
+153	opposite of
+154	basin country
+155	successful candidate
+156	voice actor
+157	vessel class
+158	candidate
+159	chairperson
+160	country for sport
+161	basic form of government
+162	language regulatory body
+163	has dialect
+164	student
+165	student of
+166	inflows
+167	official residence
+168	start point
+169	cast member of
+170	screenwriter of
+171	is the occupation of
+172	performs
+173	is the narrative location of
+174	produced by
+175	location of death
+176	photographed (or was photographer of can be another option depending on context)
+177	preceded by
+178	is the country of
+179	distributes
+180	composed
+181	played by
+182	has instance
+183	precedes
+184	film or TV show originally in language
+185	is label of
+186	superclass of
+187	has member
+188	originally broadcasted
+189	has location
+190	origin country of
+191	directed
+192	is part of
+193	child
+194	is religion of
+195	is the capital of
+196	subject of
+197	siblings
+198	twinned administrative body
+199	birthplace of
+200	educated
+201	describes the genre of
+202	has a member
+203	has citizen
+204	includes person
+205	movement associated with
+206	produced
+207	contains
+208	shares border with
+209	employs
+210	location includes
+211	adjacent station
+212	maintains
+213	is cause of death of
+214	is a distribution format for
+215	is the author of
+216	appears in
+217	contains the administrative territorial entity of
+218	speciality played by person
+219	includes
+220	ideology of
+221	is the residence of
+222	award given to
+223	includes team
+224	the parent of
+225	edited
+226	involved in
+227	publishes
+228	drafted 
+229	features individual
+230	host platform for
+231	influences
+232	umbrella organization
+233	wrote lyrics for
+234	owns
+235	parent
+236	is headquarters of
+237	has city located in or next to it
+238	includes location
+239	doctoral advisor
+240	developed
+241	location of film
+242	burial place of
+243	is subsidiary of
+244	spouse Since the relation of being a spouse is reciprocal, the relationship does not change when reversed
+245	is the basis for
+246	executive producer of
+247	license for
+248	is spoken, written or signed by
+249	has member
+250	diplomatic relation
+251	is a notable work of
+252	is the narrator of
+253	has as its capital
+254	designed
+255	includes
+256	founded
+257	is on river
+258	created
+259	is part of
+260	child
+261	is the official language of
+262	military relation
+263	has member
+264	has competitor
+265	claims territory
+266	location operated by
+267	site of
+268	has participant
+269	is the architect of
+270	features
+271	is spin-off of
+272	used by game
+273	operates
+274	is the architectural style of
+275	manufactures
+276	namesake of
+277	place where formed
+278	has professional in
+279	production designer of
+280	includes location
+281	language of native speaker
+282	is the political alignment of
+283	unmarried partner
+284	siblings
+285	participates in
+286	has contributor of the creative work or subject
+287	commands allegiance of
+288	doctoral student
+289	produced or provided by
+290	under broadcasting license of
+291	is the given name of
+292	associated work
+293	is the programming language for
+294	is the brand of
+295	is the mouth of
+296	is the voice type of
+297	replaces
+298	head coach of
+299	used by
+300	episodes of series
+301	is replaced by
+302	occupies
+303	is depicted in
+304	holds
+305	field for
+306	location where created
+307	language of
+308	discovered or invented by
+309	included in collection of
+310	is settlement in
+311	has enclave
+312	location of shipping
+313	is the color of
+314	inspires
+315	rank held by
+316	is connected by line
+317	included in
+318	different from
+319	soundtrack of
+320	receives outflow from
+321	is used in
+322	thus still opposite of
+323	country has basin
+324	elected in
+325	voice actor for
+326	class of vessel
+327	is candidate in
+328	chaired by
+329	country represented by sport
+330	is basic form of government of
+331	regulates language
+332	is a dialect of
+333	teacher
+334	teacher of
+335	outflows to
+336	is the official residence of
+337	start point for or simply originated subject
